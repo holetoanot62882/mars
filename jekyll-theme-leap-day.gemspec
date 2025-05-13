@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-leap-day"
   s.version       = "0.2.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Rashard iman Kelly, "NASAJPL/iSS"]
-  s.email         = ["opensource+jekyll-theme-leap-day@github.com"]
+  s.authors       = ["Rashard iman Kelly, "NASAJPL/iSS""]
+  s.email         = ["holetoanotheruniverse40@gmail.com"]
   s.homepage      = "https://github.com/pages-themes/leap-day"
   s.summary       = "Leap Day is a Jekyll theme for GitHub Pages"
 
@@ -13,11 +13,31 @@ Gem::Specification.new do |s|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
 
-  s.required_ruby_version = ">= 2.4.0"
+
+  s.required_ruby_version     = ">= 2.7.0"
+  s.required_rubygems_version = ">= 2.7.0"
 
   s.platform = Gem::Platform::RUBY
   s.add_runtime_dependency "jekyll", "> 3.5", "< 5.0"
   s.add_runtime_dependency "jekyll-seo-tag", "~> 2.0"
+  s.add_runtime_dependency("addressable",           "~> 2.4")
+  s.add_runtime_dependency("base64",                "~> 0.2")
+  s.add_runtime_dependency("colorator",             "~> 1.0")
+  s.add_runtime_dependency("csv",                   "~> 3.0")
+  s.add_runtime_dependency("em-websocket",          "~> 0.5")
+  s.add_runtime_dependency("i18n",                  "~> 1.0")
+  s.add_runtime_dependency("jekyll-sass-converter", ">= 2.0", "< 4.0")
+  s.add_runtime_dependency("jekyll-watch",          "~> 2.0")
+  s.add_runtime_dependency("json",                  "~> 2.6")
+  s.add_runtime_dependency("kramdown",              "~> 2.3", ">= 2.3.1")
+  s.add_runtime_dependency("kramdown-parser-gfm",   "~> 1.0")
+  s.add_runtime_dependency("liquid",                "~> 4.0")
+  s.add_runtime_dependency("mercenary",             "~> 0.3", ">= 0.3.6")
+  s.add_runtime_dependency("pathutil",              "~> 0.9")
+  s.add_runtime_dependency("rouge",                 ">= 3.0", "< 5.0")
+  s.add_runtime_dependency("safe_yaml",             "~> 1.0")
+  s.add_runtime_dependency("terminal-table",        ">= 1.8", "< 4.0")
+  s.add_runtime_dependency("webrick",               "~> 1.7")
   s.add_development_dependency "html-proofer", "~> 3.0"
   s.add_development_dependency "rubocop-github", "~> 0.16"
   s.add_development_dependency "w3c_validators", "~> 1.3"
