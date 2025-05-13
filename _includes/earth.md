@@ -63,11 +63,13 @@ webm</a>
 ![Manessah](https://pbs.twimg.com/media/GUphYsra8AAVXLW?format=jpg&name=large) @blackgirlscode @nasa-jpl 
 
 # USGS WATER note to Gov.Newsom
-[WaterWerks on /compiling](https://ricothaka.github.io/compiling/WaterWerkS)
+
+
+[WaterWerks_on/compiling!]({{ site.url }}{{ site.baseurl }}/compiling/WaterWerkS)
 
 
 # Los Angeles Fires
-[WorkLog - /compiling RashardKElly @nasa-jpl](https://ricothaka.github.io/compiling/The-2025-Los-Angeles-Fires)
+[WorkLog-/compilingRashardKElly]({{ site.url }}{{ site.baseurl }}/compiling/The-2025-Los-Angeles-Fires)
 
 
 ![LA_FiRES](https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00134_Wildfire_LA_area.png)
