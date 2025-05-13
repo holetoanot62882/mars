@@ -22,6 +22,14 @@ mermaid: true
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)] [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD)
 
+
+### Image of the Week
+## Mars Perseverance Sol 1500: [WATSON Camera](https://science.nasa.gov/mission/mars-2020-perseverance/science-instruments/#cameras)
+This photo was selected by public vote and featured as "Image of the Week" for Week 221 (May 4 - 10, 2025) of the Perseverance rover mission on Mars.
+
+NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.
+![<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01500/ids/edr/browse/shrlc/SIF_1500_0800110684_156EBY_N0730000SRLC07021_0000LMJ01_1200.jpg" alt="Image of the Week for Week 221 (May 4 - 10, 2025) of the Perseverance rover mission on Mars." />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01500/ids/edr/browse/shrlc/SIF_1500_0800110684_156EBY_N0730000SRLC07021_0000LMJ01_1200.jpg)
+### NASA/JPL-Caltech
 ![insight](https://www.jpl.nasa.gov/news/press_kits/insight/assets/images/facts/insight-logo.png)
 # Nasa iNSiGHT
 [LaunchFacts](https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/)
